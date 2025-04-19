@@ -10,7 +10,7 @@
 - แสดงภาพเคลื่อนไหว (Lottie) ตามสภาพอากาศ เช่น แดด, ฝน, เมฆ, ฟ้าร้อง 
 
 ##  Screenshots
-![Uploading Screenshot 2568-04-19 at 17.55.49.png…]()
+<img width="1440" alt="Screenshot 2568-04-19 at 17 55 49" src="https://github.com/user-attachments/assets/76402847-94bd-4e48-87df-a16791589431" />
 
 
 ##  Technologies Used
